@@ -1,9 +1,7 @@
 # Mapping extinct streets of Belfast
-There are some small streets in 19th century Belfast that were never mapped before they were demolished. 
+There are some small streets in 19th century Belfast that were never mapped before they were demolished. They do appear in [street directories](https://www.lennonwylie.co.uk/). Is it possible to recreate a map based on street directories?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/391_of_%27%28The_Imperial_Gazetteer%3B_a_general_dictionary_of_geography%2C_physical%2C_political%2C_statistical_and_descriptive_..._Edited_by_W._G._Blackie_..._With_..._illustrations%2C_etc.%29%27_%2811252279605%29.jpg/430px-thumbnail.jpg" height=300>
-
-They do appear in [street directories](https://www.lennonwylie.co.uk/). Is it possible to recreate a map based on street directories?
 
 ## Street directories
 The great thing about (some) street directories is that they list every address and intersection in order. In this way, they preserve a large amount of data about the topolocical relations between these features. 
