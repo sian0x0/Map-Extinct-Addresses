@@ -25,4 +25,4 @@ The best results for a proof of concept so far have come from Cytoscape:
 
 
 ## Mapping
-It should be possible to eventually convert strings like this into LineStrings and other relations used in GIS/mapping systems, which can be overlaid onto modern or old georefernced maps.
+It should be possible to eventually convert strings like this into LineStrings and other relations used in GIS/mapping systems, which can be overlaid onto modern or old georeferenced maps.
